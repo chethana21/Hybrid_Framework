@@ -1,0 +1,36 @@
+<add_customer_page>
+    <data1>
+        <user>admin@yourstore.com</user>
+        <password>admin</password>
+        <email>chethu143@gmail.com</email>
+        <newpassword>chowdry143</newpassword>
+        <firstname>Chethana</firstname>
+        <lastname>Chowdry</lastname>
+        <Gender>Female</Gender>
+        <dateofbirth>11/21/1999</dateofbirth>
+        <companyname>Wipro</companyname>
+        <taxexempt>yes</taxexempt>
+        <newsletter>Your store name</newsletter>
+        <customerroles>Guests</customerroles>
+        <Managerofvendor>Vendor 1</Managerofvendor>
+        <active>yes</active>
+        <expect>Pass</expect>
+    </data1>
+    <data2>
+        <user>admin@yourstore.com</user>
+        <password>admin</password>
+        <email>chethu@gmail.com</email>
+        <newpassword>newpassword</newpassword>
+        <firstname>Nimmagadda</firstname>
+        <lastname>Chowdry</lastname>
+        <Gender>Female</Gender>
+        <dateofbirth>1/21/1999</dateofbirth>
+        <companyname>Wipro</companyname>
+        <taxexempt>no</taxexempt>
+        <newsletter>Test store 2</newsletter>
+        <customerroles>Registered</customerroles>
+        <Managerofvendor>Vendor 2</Managerofvendor>
+        <active>yes</active>
+        <expect>Pass</expect>
+    </data2>
+</add_customer_page>

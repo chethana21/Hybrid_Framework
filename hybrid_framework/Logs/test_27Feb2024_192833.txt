@@ -1,0 +1,3 @@
+2024-02-27 19:28:45,309 INFO Launching browser
+2024-02-27 19:28:49,338 INFO Successfully login to the Dashbord...
+2024-02-27 19:28:54,557 INFO TC::test_verify_login=PASSED

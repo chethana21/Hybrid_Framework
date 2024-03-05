@@ -1,0 +1,10 @@
+2024-02-27 19:57:18,457 INFO Launching browser
+2024-02-27 19:57:21,424 INFO Successfully login to the Dashbord...
+2024-02-27 19:57:27,666 INFO TC::test_verify_login=PASSED
+2024-02-27 19:57:42,739 INFO Launching browser
+2024-02-27 19:57:44,113 INFO Successfully login to the Dashbord...
+2024-02-27 19:58:23,867 INFO Launching browser
+2024-02-27 19:58:25,152 INFO Successfully login to the Dashbord...
+2024-02-27 19:58:36,137 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CEF5A17790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3765994409b57542600bba4257b95b11
+2024-02-27 19:58:40,193 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CEF65A8E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3765994409b57542600bba4257b95b11
+2024-02-27 19:58:44,292 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CEF65AAB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3765994409b57542600bba4257b95b11

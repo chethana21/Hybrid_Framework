@@ -1,0 +1,4 @@
+2024-02-26 19:52:40,389 INFO Launching browser
+2024-02-26 19:52:40,707 INFO TC::test_verfiy_title=PASSED
+2024-02-26 19:53:06,507 INFO Launching browser
+2024-02-26 19:53:12,020 INFO Successfully login to the Dashbord...

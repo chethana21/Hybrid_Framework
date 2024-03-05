@@ -1,0 +1,2 @@
+2024-02-27 19:28:44,965 INFO Launching browser
+2024-02-27 19:28:45,171 INFO TC::test_verfiy_title=PASSED

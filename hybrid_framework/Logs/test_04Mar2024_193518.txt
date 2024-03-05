@@ -1,0 +1,6 @@
+2024-03-04 19:35:22,785 INFO Launching browser
+2024-03-04 19:35:26,508 INFO Successfully login to the Dashbord...
+2024-03-04 19:35:45,853 INFO Successful Created the customer
+2024-03-04 19:35:51,250 INFO Launching browser
+2024-03-04 19:35:54,210 INFO Successfully login to the Dashbord...
+2024-03-04 19:36:08,464 INFO Successful Created the customer
